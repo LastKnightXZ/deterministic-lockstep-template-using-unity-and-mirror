@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/DeterministicLocstepTemplate/Demo/Scenes/Offline.unity
+    path: Assets/DeterministicLockstepTemplate/Demo/Scenes/Offline.unity
     guid: cb77719535eef8f4cbbc0bc3d5e8dad8
   - enabled: 1
-    path: Assets/DeterministicLocstepTemplate/Demo/Scenes/Lobby.unity
+    path: Assets/DeterministicLockstepTemplate/Demo/Scenes/Lobby.unity
     guid: fffe306ae6fb171499e85938ed7255cc
   - enabled: 1
-    path: Assets/DeterministicLocstepTemplate/Demo/Scenes/Game.unity
+    path: Assets/DeterministicLockstepTemplate/Demo/Scenes/Game.unity
     guid: 23c37d4a27e0c8e4a9e8f71ae5a9edc1
   m_configObjects: {}

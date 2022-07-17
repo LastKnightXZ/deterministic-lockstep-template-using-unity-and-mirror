@@ -187,8 +187,8 @@ MonoBehaviour:
   runInBackground: 1
   autoStartServerBuild: 1
   serverTickRate: 30
-  offlineScene: Assets/DeterministicLocstepTemplate/Demo/Scenes/Offline.unity
-  onlineScene: Assets/DeterministicLocstepTemplate/Demo/Scenes/Lobby.unity
+  offlineScene: Assets/DeterministicLockstepTemplate/Demo/Scenes/Offline.unity
+  onlineScene: Assets/DeterministicLockstepTemplate/Demo/Scenes/Lobby.unity
   transport: {fileID: 753075861}
   networkAddress: localhost
   maxConnections: 100
@@ -200,8 +200,8 @@ MonoBehaviour:
   showRoomGUI: 1
   minPlayers: 1
   roomPlayerPrefab: {fileID: 8246811704520711100, guid: f8470c7b3277f7c4ea4eb92baccb8feb, type: 3}
-  RoomScene: Assets/DeterministicLocstepTemplate/Demo/Scenes/Lobby.unity
-  GameplayScene: Assets/DeterministicLocstepTemplate/Demo/Scenes/Game.unity
+  RoomScene: Assets/DeterministicLockstepTemplate/Demo/Scenes/Lobby.unity
+  GameplayScene: Assets/DeterministicLockstepTemplate/Demo/Scenes/Game.unity
   _allPlayersReady: 0
   roomSlots: []
   clientIndex: 0
