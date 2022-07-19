@@ -13,16 +13,18 @@ A project to help anyone make their own fully deterministic lockstep games using
 
 - Implements tick system which works with variable frame rates 
 
+- Everything is invoked through events from a single TickManager, thus easy to understand execution order  
+
 - Custom serialization methods to have precise control on what gets serialized and what not 
 
 - Client side preidiction 
 
 - Server side reconciliation
 
-- Entity interpolation with configurable waiting time
+- Entity interpolation with configurable waiting ticks
 
 - Way to perform lag compensated actions 
 
 - Custom solution to sync mechAnim Animator's parameters, state, uninterupted and interupted state transitions, layerWeights, etc
 
-- Uses own custom fixedUpdate for physics and thus making sure no of physics step in between ticks stays consistent
+- Uses own custom fixedUpdate for physics and thus making sure number of physics step in between ticks stays consistent
