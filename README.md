@@ -19,9 +19,9 @@ A project to help anyone make their own fully deterministic lockstep games using
 
 - Server side reconciliation
 
-- Entity interpolation
+- Entity interpolation with configurable waiting time
 
-- Way to perform lag compensated actions
+- Way to perform lag compensated actions 
 
 - Custom solution to sync mechAnim Animator's parameters, state, uninterupted and interupted state transitions, layerWeights, etc
 
